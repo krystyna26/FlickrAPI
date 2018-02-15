@@ -7,7 +7,7 @@ Project built using React
 ### Getting started
 
 ```
-git clone
+git clone https://github.com/krystyna26/FlickrAPI.git
 npm install
 cd flickr
 npm start
